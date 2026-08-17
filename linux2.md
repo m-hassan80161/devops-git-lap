@@ -2,7 +2,7 @@ pwd
 # Output: /home/user/Documents
 
 mkdir MyNewProject
-# Make Dir 
+# Create Directory
 
 rm old_notes.txt
 # Remove Files
